@@ -14,7 +14,9 @@ gcc -Wall -W -o 01 01.c
 ./01
 
 git add 01.c
+
 git commit -m "test"
+
 git push
 
 abc
