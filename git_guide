@@ -1,0 +1,23 @@
+git 설치
+
+aiadmin@ubuntu:~$ sudo apt install git -y
+[sudo] password for aiadmin:
+
+git 내려받기
+
+aiadmin@ubuntu:~$ git clone https://github.com/zzunzoo/codingplus.git
+Cloning into 'codingplus'...
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 228 (delta 1), reused 8 (delta 1), pack-reused 220
+Receiving objects: 100% (228/228), 35.53 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (78/78), done.
+Checking connectivity... done.
+aiadmin@ubuntu:~$
+
+
+내려 받은 git 확인
+
+aiadmin@ubuntu:~$ cd codingplus
+aiadmin@ubuntu:~/codingplus$
